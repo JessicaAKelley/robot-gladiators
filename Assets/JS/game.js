@@ -244,7 +244,7 @@ var playerInfo = {
     money: 10,
     reset: function() {
         this.health = 100;
-        his.money = 10;
+        this.money = 10;
         this.attack = 10;
     },
     refillHealth: function() {
